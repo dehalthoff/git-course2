@@ -5,4 +5,4 @@ este é um repositorio teste para ensinar como git funciona
 
 estuda porra kkk
 
-kk
+ve se aprende essa merda kk
